@@ -6,7 +6,7 @@ The task will test your knowledge of JavaScript and your ability to write readab
 
 Please try to avoid using libraries. You may use online resources for general help with syntax, techniques etc but please don't copy code.
 
-To submit the completed task, please create a public fork of this repository with your changes send us the link. Alternatively you may send us a zipped directory with the files contained.
+To submit the completed task, please create a public fork of this repository with your changes and send us the link. Alternatively you may send us a zipped directory with the files contained.
 
 ## The Task
 
