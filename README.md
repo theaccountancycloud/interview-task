@@ -18,7 +18,7 @@ The table must have the following columns:
 - Name
 - Amount
 - Date (formatted as d/m/Y)
-- Categories
+- Categories (as a comma-separated string)
 - Percentage of Total
 
 By default the table must be sorted by date in descending order. 
