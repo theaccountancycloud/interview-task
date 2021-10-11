@@ -28,3 +28,4 @@ You must also be able to search the transactions by name and category. We expect
 By default the table must be sorted by date in descending order and all amounts must be formatted to 2 decimal places.
 
 We're big fans of TDD and we'd like you to take this approach when completing the task.
+
