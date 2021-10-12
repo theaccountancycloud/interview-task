@@ -6,7 +6,7 @@ We're ideally looking for candidates who can write readable, efficient and scala
 
 You may use online resources for general help with syntax, techniques etc but please don't copy code.
 
-To submit the completed task, please create a public fork of this repository with your changes and send us the link. Alternatively you may send us a zipped directory with the files contained.
+To submit the completed task please send us a zipped directory with the files contained.
 
 Setup instructions for Laravel can be found at https://laravel.com/docs/8.x/installation.
 
