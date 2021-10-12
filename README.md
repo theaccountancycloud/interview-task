@@ -1,6 +1,6 @@
 # Accountancy Cloud Technical Task
 
-This task is designed to test your basic coding & problem-solving skills. You have as long as you like to complete it but for an indicative timescale we expect a Senior Developer to finish it in just under an hour.
+This task is designed to test your basic coding & problem-solving skills. You have as long as you like to complete it but for an indicative timescale we expect a Senior Developer to finish it in about 90 minutes.
 
 We're ideally looking for candidates who can write readable, efficient and scalable code.
 
